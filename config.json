@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuelete",
+        "uuid": 2892312,
+        "checksum": "osi87h"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
